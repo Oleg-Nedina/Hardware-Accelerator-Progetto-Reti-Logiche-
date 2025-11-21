@@ -19,5 +19,4 @@ The design abandoned a modular approach in favor of an **Integrated FSM** to imp
 * **Robustness:** Tested against edge cases (K=0, K=Max, Saturating values) via exhaustive Testbenches.
 
 ## 📄 Documentation
-For a deep dive into the state machine logic and experimental results, check the full report:
-👉 **[Read the Technical Report](./docs/Report_Progetto.pdf)**
+For a deep dive into the state machine logic and experimental results, check the full report and specification in docs
